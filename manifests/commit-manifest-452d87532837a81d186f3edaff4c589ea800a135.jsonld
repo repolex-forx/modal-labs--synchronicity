@@ -29,7 +29,7 @@
       "@type": "repolex:GraphFile",
       "repolex:graphType": "tag",
       "repolex:graphFilePath": "tag/tag.nq.gz",
-      "repolex:graphFileSize": 7313
+      "repolex:graphFileSize": 7312
     },
     {
       "@type": "repolex:GraphFile",
@@ -56,7 +56,7 @@
       "repolex:graphFileSize": 3444553
     }
   ],
-  "repolex:parseStatus": "parsed",
-  "repolex:parsedAt": "2026-11-08T03:30:11.025823+00:00",
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-11-08T06:43:07.163564+00:00",
   "repolex:parserVersion": "0.1.10"
 }
