@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/modal-labs/synchronicity/commit/452d87532837a81d186f3edaff4c589ea800a135",
       "git:hexsha": "452d87532837a81d186f3edaff4c589ea800a135",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/modal-labs/synchronicity/commit/e35e14c0409a5b25670a215d05ec10cd8f957437",
